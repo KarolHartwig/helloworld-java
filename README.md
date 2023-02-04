@@ -7,5 +7,5 @@ To build
 
 To run
 ------
-    java -cp target/helloworld-1.0.jar com.example.Main
+    java -classpath target/helloworld-1.0.jar src/main/java/org/example/Main.java
 
