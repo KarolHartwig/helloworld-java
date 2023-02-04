@@ -7,5 +7,5 @@ To build
 
 To run
 ------
-    java -cp target/helloworld-1.0.jar com.example.HelloWorld.Main
+    java -cp target/helloworld-1.0.jar com.example.Main
 
